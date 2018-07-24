@@ -7,7 +7,7 @@ export default class App extends React.Component {
   getUserLocationHandler = () => {
     navigator.geolocation.getCurrentPosition(position => {
       alert(position);
-    }, err => alert("Error"));
+    }, err => alert("Error!"));
     //alert('Hello');
    
   }
