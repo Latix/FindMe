@@ -8,7 +8,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="e41a052c714bf67f743c22ed74153422ad773f88">
-        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\debug\com.google.maps.android-android-maps-utils-0.5_2cce1bbd01ae54ede9aca11d8ee28c679d1298ca.jar" />
+        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\release\com.google.maps.android-android-maps-utils-0.5_2cce1bbd01ae54ede9aca11d8ee28c679d1298ca.jar" />
     </item>
     <item
         is-multidex="false"
@@ -17,7 +17,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_86c58c617cd27120c827418ebd3761a244d393af.jar" />
+        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\release\javax.inject-1_86c58c617cd27120c827418ebd3761a244d393af.jar" />
     </item>
     <item
         is-multidex="false"
@@ -26,7 +26,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
-        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.2.4_96566254bdd35e1040a7d6d34ff232b4383885c8.jar" />
+        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-maps-10.2.4_96566254bdd35e1040a7d6d34ff232b4383885c8.jar" />
     </item>
     <item
         is-multidex="false"
@@ -35,7 +35,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
-        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_385295ebff16344a15fcc46c1d165d501c14bac5.jar" />
+        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-24.0.0_385295ebff16344a15fcc46c1d165d501c14bac5.jar" />
     </item>
     <item
         is-multidex="false"
@@ -44,7 +44,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
-        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.4_b2a0f290408d4ea862566f5cbc0978d19761aa72.jar" />
+        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-tasks-10.2.4_b2a0f290408d4ea862566f5cbc0978d19761aa72.jar" />
     </item>
     <item
         is-multidex="false"
@@ -53,7 +53,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
-        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_e3fa17fcfd8ed720472df74cec4e572c057ea17f.jar" />
+        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-drawee-1.3.0_e3fa17fcfd8ed720472df74cec4e572c057ea17f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -62,7 +62,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_6f6471225bd70be5f3b63dbdf5d394d193ebe3b8.jar" />
+        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.0.1_6f6471225bd70be5f3b63dbdf5d394d193ebe3b8.jar" />
     </item>
     <item
         is-multidex="false"
@@ -71,7 +71,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
-        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_d6ef0823a36ab9a61eac3249fd61d2e27076f6ce.jar" />
+        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\release\okhttp-urlconnection-3.6.0_d6ef0823a36ab9a61eac3249fd61d2e27076f6ce.jar" />
     </item>
     <item
         is-multidex="false"
@@ -80,7 +80,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
-        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.4_f64a202d9fea3866ed0d23411ec3c1263ba5e529.jar" />
+        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\release\com.facebook.react-react-native-0.55.4_f64a202d9fea3866ed0d23411ec3c1263ba5e529.jar" />
     </item>
     <item
         is-multidex="false"
@@ -89,7 +89,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
-        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_c464edc6d38127deef036bf4c27316cafe5e8159.jar" />
+        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\release\internal_impl-24.0.0_c464edc6d38127deef036bf4c27316cafe5e8159.jar" />
     </item>
     <item
         is-multidex="false"
@@ -98,7 +98,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_6c0a1073655afb677394b611302b9753c0a27f5b.jar" />
+        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\release\infer-annotations-4.0_6c0a1073655afb677394b611302b9753c0a27f5b.jar" />
     </item>
     <item
         is-multidex="false"
@@ -107,7 +107,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
-        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_882a44df72337bb179302fa678b710280fbabf5c.jar" />
+        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_882a44df72337bb179302fa678b710280fbabf5c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -116,7 +116,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_6e985d21353e58a535a34205ab4323a48d9e8743.jar" />
+        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\release\bolts-tasks-1.4.0_6e985d21353e58a535a34205ab4323a48d9e8743.jar" />
     </item>
     <item
         is-multidex="false"
@@ -125,7 +125,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
-        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_52268b07ae31bc02eebf1c5cedd805009dee642c.jar" />
+        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-fresco-1.3.0_52268b07ae31bc02eebf1c5cedd805009dee642c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -134,7 +134,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
-        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.4_d7a0be8b9b2f5e77bccbe9e8a4d0ca468c159365.jar" />
+        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-10.2.4_d7a0be8b9b2f5e77bccbe9e8a4d0ca468c159365.jar" />
     </item>
     <item
         is-multidex="false"
@@ -143,7 +143,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_adca615df24ebe3380ddff98f2f0c2851acfa1e9.jar" />
+        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\release\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_adca615df24ebe3380ddff98f2f0c2851acfa1e9.jar" />
     </item>
     <item
         is-multidex="false"
@@ -152,7 +152,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
-        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_ffe2b5d4ce9572dc16d68432a26518490e57f473.jar" />
+        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\release\okhttp-3.6.0_ffe2b5d4ce9572dc16d68432a26518490e57f473.jar" />
     </item>
     <item
         is-multidex="false"
@@ -161,7 +161,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
-        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.4_00373d077a6249b10c68c039ef8b2e6a99f7779e.jar" />
+        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-base-10.2.4_00373d077a6249b10c68c039ef8b2e6a99f7779e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -170,7 +170,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
-        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_afb94552efecdd1c4135787a8d83b1d7a2d2fc59.jar" />
+        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-imagepipeline-base-1.3.0_afb94552efecdd1c4135787a8d83b1d7a2d2fc59.jar" />
     </item>
     <item
         is-multidex="false"
@@ -179,7 +179,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_4dd714aba74013bcc33d95b84dec622e5b0ac40f.jar" />
+        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\release\staticlayout-proxy-1.0_4dd714aba74013bcc33d95b84dec622e5b0ac40f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -188,7 +188,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_e7bb9868830314787aec8e3fd7b281c4167a458c.jar" />
+        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\release\okio-1.13.0_e7bb9868830314787aec8e3fd7b281c4167a458c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -197,7 +197,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
-        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_800bbd0724f2a56c6a70d39d636cde317ca1784a.jar" />
+        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-fbcore-1.3.0_800bbd0724f2a56c6a70d39d636cde317ca1784a.jar" />
     </item>
     <item
         is-multidex="false"
@@ -206,7 +206,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
-        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_eac8159155de59d76596eb45d090d2e74bed297d.jar" />
+        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\release\support-annotations-24.0.0_eac8159155de59d76596eb45d090d2e74bed297d.jar" />
     </item>
     <item
         is-multidex="false"
@@ -215,7 +215,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
-        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_7d57b5422c79d0b15a7d5a3d428f0630145d2be4.jar" />
+        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-imagepipeline-1.3.0_7d57b5422c79d0b15a7d5a3d428f0630145d2be4.jar" />
     </item>
     <item
         is-multidex="false"
@@ -224,7 +224,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_27611f640d4e1773f63cf86afcd3fcc261ca7a97.jar" />
+        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\release\jsr305-3.0.0_27611f640d4e1773f63cf86afcd3fcc261ca7a97.jar" />
     </item>
     <item
         is-multidex="false"
@@ -233,7 +233,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_03f31f44701446b51c8635291f9137cf128326b0.jar" />
+        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\release\com.facebook.soloader-soloader-0.1.0_03f31f44701446b51c8635291f9137cf128326b0.jar" />
     </item>
     <item
         is-multidex="false"
@@ -242,7 +242,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="f6972bad088b91747fc9a32141a35e16639c0d05">
-        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\debug\shareplaces-react-native-maps-unspecified_9fecdbeac4273a42d0fc39651011f6e16b8dbe02.jar" />
+        <dex dex="C:\React_Native\share-places\android\app\build\intermediates\pre-dexed\release\shareplaces-react-native-maps-unspecified_9fecdbeac4273a42d0fc39651011f6e16b8dbe02.jar" />
     </item>
 
 </items>
